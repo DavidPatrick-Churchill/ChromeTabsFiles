@@ -10,8 +10,13 @@
       "duration": 600
     },
     {
-      "_comments" : "Rover Dart EA River Guage",
+      "_comments" : "River Dart - Austins Bridge - EA River Guage",
       "url": "https://flood-warning-information.service.gov.uk/station/3216?direction=u",
+      "duration": 600
+    },
+    {
+      "_comments" : "River Dart - Dunnabridge - EA River Guage",
+      "url": "https://flood-warning-information.service.gov.uk/station/3212?direction=u,
       "duration": 600
     },
     {
