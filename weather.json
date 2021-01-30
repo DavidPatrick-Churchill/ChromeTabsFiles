@@ -5,11 +5,6 @@
   "lazyLoadTabs": true,
   "websites": [
     {
-      "url": "https://client.foldingathome.org/",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 3600
-    },
-    {
       "_comments" : "Brunel Holiday Park",
       "url": "https://www.youtube.com/watch?v=_ylv6UaJMTI",
       "duration": 600
