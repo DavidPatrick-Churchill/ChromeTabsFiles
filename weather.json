@@ -2,27 +2,29 @@
   "settingsReloadIntervalMinutes": 60000,
   "fullscreen": false,
   "autoStart": false,
-  "lazyLoadTabs": true,
+  "lazyLoadTabs": false,
   "websites": [
     {
-      "_comments" : "Brunel Holiday Park",
-      "url": "https://www.youtube.com/watch?v=_ylv6UaJMTI",
+      "_comments" : "River Mardle EA River Guage",
+      "url": "https://flood-warning-information.service.gov.uk/station/9015?direction=u",
       "duration": 600
     },
     {
-      "_comments" : "Blenheim Public - Dawlish SOUTH",
-      "url": "https://www.youtube.com/watch?v=xsD21zBb73o",
+      "_comments" : "Rover Dart EA River Guage",
+      "url": "https://flood-warning-information.service.gov.uk/station/3216?direction=u",
       "duration": 600
     },
     {
       "_comments" : "Blenheim MEMBER - Dawlish SOUTH",
       "url": "https://www.youtube.com/watch?v=7epb7xU5bNc",
-      "duration": 600
+      "duration": 600,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "_comments" : "San Remo MEMBER - Dawlish NORTH",
       "url": "https://www.youtube.com/watch?v=6ycFJcFPqj0",
-      "duration": 600
+      "duration": 600,
+      "tabReloadIntervalSeconds": 300
     },
    {
       "_comments" : "Black Swan PUBLIC - Dawlish various",
