@@ -86,6 +86,10 @@
       "tabReloadIntervalSeconds": 300
     },
     {
+      "url": "https://github.com/DavidPatrick-Churchill/ChromeTabsFiles",
+      "duration": 60
+    },
+    {
       "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
       "duration": 60
     }
