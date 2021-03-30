@@ -2,7 +2,7 @@
   "settingsReloadIntervalMinutes": 60000,
   "fullscreen": false,
   "autoStart": false,
-  "lazyLoadTabs": true,
+  "lazyLoadTabs": false,
   "websites": [
     {
       "url": "https://client.foldingathome.org/",
