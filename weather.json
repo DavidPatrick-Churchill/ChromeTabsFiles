@@ -22,6 +22,36 @@
     {
       "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
       "duration": 60
-    }
+    },
+    {
+      "_comments" : "FROG",
+      "url": "http://localhost",
+      "duration": 600
+    },
+    {
+      "_comments" : "Rainfall guages",
+      "url": "http://localhost",
+      "duration": 600
+    },
+    {
+      "_comments" : "Consolidated EA site",
+      "url": "http://localhost",
+      "duration": 600
+    },
+    {
+      "_comments" : "Netwaether Rain Radar",
+      "url": "http://localhost",
+      "duration": 600
+    },
+    {
+      "_comments" : "Netweather Forecast",
+      "url": "http://localhost",
+      "duration": 600
+    },
+    {
+      "_comments" : "Flood Warnings",
+      "url": "http://localhost",
+      "duration": 600
+    },
   ]
 }
