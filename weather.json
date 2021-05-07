@@ -25,7 +25,7 @@
     },
     {
       "_comments" : "FROG",
-      "url": "http://localhost",
+      "url": "http://www.timeview2.net/logger_profiles/view/3914/display:graph",
       "duration": 600
     },
     {
@@ -34,23 +34,31 @@
       "duration": 600
     },
     {
-      "_comments" : "Consolidated EA site",
-      "url": "http://localhost",
+      "_comments" : "National River Flow Archive",
+      "url": "https://nrfa.ceh.ac.uk/",
       "duration": 600
     },
     {
-      "_comments" : "Netwaether Rain Radar",
-      "url": "http://localhost",
+      "_comments" : "Realtime River Data",
+      "url": "https://data.gov.uk/dataset/0cbf2251-6eb2-4c4e-af7c-d318da9a58be/real-time-and-near-real-time-river-level-data",
+      "duration": 600
+    },
+  {
+      "url": "https://www.netweather.tv/secure/cgi-bin/premium.pl?action=radarv8",
+      "duration": 300
+    },
+    {
+      "url": "https://www.netweather.tv/secure/cgi-bin/premium.pl?action=forecast;ct=28800~Buckfastleigh",
+      "duration": 300
+    },
+    {
+      "_comments" : "Flood Warnings - River Mardle, Buckfastleigh",
+      "url": "https://flood-warning-information.service.gov.uk/warnings?stationid=9015",
       "duration": 600
     },
     {
-      "_comments" : "Netweather Forecast",
-      "url": "http://localhost",
-      "duration": 600
-    },
-    {
-      "_comments" : "Flood Warnings",
-      "url": "http://localhost",
+      "_comnents" : "Flood Warnings in effecto for TQ110FG"
+      "url" : "https://check-for-flooding.service.gov.uk/location?q=tq110fg"
       "duration": 600
     }
   ]
