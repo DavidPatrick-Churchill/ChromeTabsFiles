@@ -5,11 +5,6 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://client.foldingathome.org/",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 3600
-    },  
-    {
       "_comments" : "RAILCAM - River Teign",
       "url": "https://www.youtube.com/watch?v=25mnkShz7R4",
       "duration": 600
