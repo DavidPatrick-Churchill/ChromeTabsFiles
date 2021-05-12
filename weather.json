@@ -6,17 +6,17 @@
   "websites": [
     {
       "_comments" : "River Mardle EA River Guage",
-      "url": "https://flood-warning-information.service.gov.uk/station/9015?direction=u",
+      "url": "https://check-for-flooding.service.gov.uk/station/9015",
       "duration": 600
     },
     {
       "_comments" : "River Dart - Austins Bridge - EA River Guage",
-      "url": "https://flood-warning-information.service.gov.uk/station/3216?direction=u",
+      "url": "https://check-for-flooding.service.gov.uk/station/3216",
       "duration": 600
     },
     {
       "_comments" : "River Dart - Dunnabridge - EA River Guage",
-      "url": "https://flood-warning-information.service.gov.uk/station/3212?direction=u",
+      "url": "https://check-for-flooding.service.gov.uk/station/3212",
       "duration": 600
     },
     {
