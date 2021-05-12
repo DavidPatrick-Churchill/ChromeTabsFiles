@@ -15,13 +15,14 @@
       "duration": 600
     },
     {
-      "_comments" : "River Dart - Dunnabridge - EA River Guage",
+      "_comments" : "River West Dart - Dunnabridge - EA River Guage",
       "url": "https://check-for-flooding.service.gov.uk/station/3212",
       "duration": 600
     },
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
-      "duration": 60
+      "_comments" : "River East Dart - Bellever - EA River Guage",
+      "url": "https://check-for-flooding.service.gov.uk/station/3215",
+      "duration": 600
     },
     {
       "_comments" : "FROG",
@@ -60,6 +61,10 @@
       "_comnents" : "Flood Warnings in effecto for TQ110FG",
       "url" : "https://check-for-flooding.service.gov.uk/location?q=tq110fg",
       "duration": 600
-    }
+    },
+    {
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
+      "duration": 60
+    },
   ]
 }
