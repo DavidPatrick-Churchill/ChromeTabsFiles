@@ -30,8 +30,8 @@
       "duration": 600
     },
     {
-      "_comments" : "Rainfall guages",
-      "url": "http://localhost",
+      "_comments" : "Map of area with rainfall & river",
+      "url": "https://check-for-flooding.service.gov.uk/river-and-sea-levels?q=buckfastleigh&v=map&lyr=ri,ti,gr,rf,mv,ts,tw,ta&ext=-4.192136,50.347789,-3.338448,50.67685",
       "duration": 600
     },
     {
