@@ -50,7 +50,7 @@
       "tabReloadIntervalSeconds": 300
     },
    {
-      "url": "https://globe.adsbexchange.com/?SiteLat=50.482&SiteLon=-3.779",
+      "url": "https://globe.adsbexchange.com",
       "duration": 600
     },
     {
@@ -62,7 +62,7 @@
       "duration": 300
     },
     {
-      "url": "https://www.netweather.tv/secure/cgi-bin/premium.pl?action=forecast;ct=28800~Buckfastleigh",
+      "url": "https://www.netweather.tv/secure/cgi-bin/premium.pl?action=forecast;ct=28800~Plymouth",
       "duration": 300
     },
     {
@@ -77,10 +77,6 @@
     },
     {
       "url": "https://github.com/DavidPatrick-Churchill/ChromeTabsFiles",
-      "duration": 60
-    },
-    {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
       "duration": 60
     }
   ]
